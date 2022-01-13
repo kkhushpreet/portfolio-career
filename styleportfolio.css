@@ -1,0 +1,56 @@
+a{
+    color: black;
+}
+header {
+    background-color:darkred;
+    color:white;
+    flex-shrink: 0;
+    size: 1000px;
+    height: 100%;
+
+}
+body {
+    
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.main-wrapper {
+    margin: auto;
+    max-width: 1200px;
+    min-height: 150px;
+    padding: 0px 15px;
+}
+footer {
+    background-color: darkred;
+    flex-shrink: 0;
+    margin-top: 25px;
+    width: 100%;
+  
+   
+}
+
+h{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+     font-weight: bolder;
+     font-size: xx-large;
+     
+}
+h2{
+    font-weight: bold;
+    text-decoration:underline;
+
+}
+h1{
+    color: maroon;
+}
+body{
+    background-color: rgb(214, 57, 84);
+}
+img{
+    border: black;
+    width: 100%;
+    
+}

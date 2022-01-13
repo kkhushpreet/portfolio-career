@@ -1,0 +1,16 @@
+h1{ 
+    text-decoration: underline;
+    color: darkgreen;
+    text-align: center;
+}
+body{
+    background-color: rgb(107, 183, 189);
+}
+input{
+     background-color:lightgrey;
+}
+
+Label{
+    text-decoration-style: solid;
+    font-weight: bolder;
+}
